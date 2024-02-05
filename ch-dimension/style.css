@@ -1,0 +1,5 @@
+.box {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 10ch;
+  /* ch is relative with '0' font used width */
+}
